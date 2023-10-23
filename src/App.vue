@@ -2,7 +2,7 @@
 import Title from './components/Title.vue';
 import ListToDo from './components/ListToDo.vue'
 
-import Modal from './components/modal.vue';
+import Modal from './components/Modal.vue';
 
 import ModalAdd from './components/ModalAdd.vue'
 
